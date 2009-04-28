@@ -1,6 +1,7 @@
 #summary Wiki sidebar page.
 <wiki:toc max_depth="1" />
 * [TableOfContents Table Of Contents]
+<br>
 * How To articles
     * [SPL How To Install / Update SPL]
     * [ArticlesDom DOM manipulation]
