@@ -2,7 +2,7 @@
 * [TableOfContents Table Of Contents]
 <br><br>
 * How To Articles *
-    * [SPL How To Install / Update SPL]
+    * [SPL Install / Update SPL]
     * [ArticlesDom DOM manipulation]
     * [ArticlesStyle CSS and style]
     * [ArticlesTips Tips and tricks]
