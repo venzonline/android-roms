@@ -1,3 +1,4 @@
+#labels TOC
 <wiki:toc max_depth="1" />
 * [TableOfContents Table Of Contents]
 <br><br>
