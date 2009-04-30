@@ -1,6 +1,11 @@
 #summary SPLs for Dream / Magic.
 #labels SPL,DIY
-
+=================================================================================<br>
+=  DISCLAIMER: I AM NOT RESPONSIBLE IF YOU BRICK / RUIN YOUR PHONE IN ANY WAY. =<br>
+=  BASIC COMPUTER SKILLS REQUIRED                                              =<br>
+=  IF YOU DO NOT KNOW WHAT ROOT IS ... YOU PROBABLY DON'T NEED IT              =<br>
+=================================================================================<br>
+<br>
 = About SPLs =
 
 This page contains information about SPLs for the HTC Dream (aka T-Mobile G1 and ADP1). What is a SPL? The SPL, or Second Program Loader, in conjunction with the IPL comprise a device's bootloader. Aside from bootstrapping Android, the bootloader also fulfills various diagnostic functions. One of these functions is the manipulation of data in the device's internal flash ram. Depending on the SPL installed, the user can apply a signed NBH file, flash nand images, and more. Note that the SPL is installed and operates independently of the Android build that runs atop it.
