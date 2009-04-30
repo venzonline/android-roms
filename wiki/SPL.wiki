@@ -1,9 +1,9 @@
 #summary SPLs for Dream / Magic.
 #labels SPL,DIY
 =================================================================================<br>
-=  DISCLAIMER: I AM NOT RESPONSIBLE IF YOU BRICK / RUIN YOUR PHONE IN ANY WAY. =<br>
-=  BASIC COMPUTER SKILLS REQUIRED                                              =<br>
-=  IF YOU DO NOT KNOW WHAT ROOT IS ... YOU PROBABLY DON'T NEED IT              =<br>
+  DISCLAIMER: I AM NOT RESPONSIBLE IF YOU BRICK / RUIN YOUR PHONE IN ANY WAY.    <br>
+  BASIC COMPUTER SKILLS REQUIRED                                                 <br>
+  IF YOU DO NOT KNOW WHAT ROOT IS ... YOU PROBABLY DON'T NEED IT                 <br>
 =================================================================================<br>
 <br>
 = About SPLs =
