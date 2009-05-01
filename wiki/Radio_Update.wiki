@@ -23,8 +23,8 @@ Compare the Baseband value to the table below to see if you are using the correc
 3 Copy it to the root of your phone's SD card.<br>
 4 Turn your phone off.<br>
 5 Start up in recovery mode by holding Home and pressing Power.<br>
-6 Press ALT+S to apply the update.<br>
-7 Once the update is applied press Home+Back to reboot the phone.  The Phone will start to boot up and then continue applying the update.  Once this is completed the Recovery menu will ask you for the second time to reboot the phone via Home+Back<br>
+6 Press *ALT+S* to apply the update.<br>
+7 Once the update is applied press Home+Back to reboot the phone.  The Phone will start to boot up and then continue applying the update.  Once this is completed the Recovery menu will ask you for the second time to reboot the phone via *Home + Back*<br>
 
 Once this is done double check the Baseband has been updated properly via:
    _Press Menu - Settings - About Phone - Scroll down till you see Baseband version_, you should see the radio version on this row if not you will need to update the Radio again.
