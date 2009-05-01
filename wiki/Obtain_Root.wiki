@@ -31,4 +31,4 @@ To get root access, do the following:
       
 *_- You now have root -_*
 
-*To Continue on please go to Installing the Hard SPL*
+*To Continue on please go to <a href="http://code.google.com/p/android-roms/wiki/Install_Hard_SPL">Installing the Hard SPL</a>*
