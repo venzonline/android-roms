@@ -1,4 +1,4 @@
-#summary Preparing your Phone to get Root
+#summary How To: Prepare your Phone to get Root
 #labels Featured
 
 *<font color="#FF0000">=================================================================================</font><br>
