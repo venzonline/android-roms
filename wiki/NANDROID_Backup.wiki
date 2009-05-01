@@ -1,4 +1,4 @@
-#summary NANDROID Backup.
+#summary How To: Perform a NANDROID Backup.
 #labels Featured
 
 *<font color="#FF0000">=================================================================================</font><br>
@@ -16,7 +16,7 @@
 
 1 Turn your phone off.<br>
 2 Hold Home, press Power button to boot into Recovery Mode<br>
-3 Press Alt+B to start the backup.<br>
+3 Press ALT+B to start the backup.<br>
 4 Once the backup has completed press Home+Back<br>
 
 Next your phone will reboot and load the OS, at this point you should copy the files your just backed up to your PC incase you need to recover your phone
