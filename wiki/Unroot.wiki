@@ -1,3 +1,12 @@
 #summary Remove Root / Stock G1.
 
 = UNROOT YOUR PHONE / PLACE PHONE BACK TO STOCK =
+
+1 Download the _DREAIMG.nbh_: http://android-roms.googlecode.com/files/DREAIMG-RC29.zip<br>
+2 Place "_DREAIMG.nbh_" on the root of your SD card.<br>
+3 Turn your phone off.<br>
+4 Start up in bootloader mode by holding Camera and pressing Power.<br>
+5 Hit power button to start the update.<br>
+6 Once the install completes hit action(trackball down) and your phone will reboot.<br>
+<br>
+_- You now have the stock RC29 firmware, now it will update on it's own in a bit -_
