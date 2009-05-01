@@ -6,7 +6,7 @@
   * [SPL Install / Update SPL]
   * [Get_Root Preparing to get Root]
   * [Obtain_Root Rooting your Phone]
-  * [ArticlesTips Tips and tricks]
+  * [Install_Hard_SPL Installation of Hard SPL]
   * [DOMReference DOM reference]
   * [HTMLElements HTML reference]
   * [CSSReference CSS reference]
