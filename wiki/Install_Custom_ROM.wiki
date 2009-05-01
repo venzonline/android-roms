@@ -1,3 +1,28 @@
 #summary Installation of the Latest Custom ROM
 
+*<font color="#FF0000">=================================================================================</font><br>
+  <font color="#FF0000">DISCLAIMER: I AM NOT RESPONSIBLE IF YOU BRICK / RUIN YOUR PHONE IN ANY WAY.</font>    <br>
+  <font color="#FF0000">BASIC COMPUTER SKILLS REQUIRED</font>                                                 <br>
+  <font color="#FF0000">IF YOU DO NOT KNOW WHAT ROOT IS ... YOU PROBABLY DON'T NEED IT</font>                 <br>
+<font color="#FF0000">=================================================================================</font>*<br>
+
+
+*PROCEED WITH CAUTION*
+
 = Installing the Latest Custom ROM =
+
+Next we will install the latest JF Version.
+
+1 Download the image.<br>
+2 Rename it to "_update.zip_".<br>
+3 Copy it to the root of your phone's SD card.<br>
+4 Turn your phone off.<br>
+5 Start up in recovery mode by holding Home and pressing Power.<br>
+6 Press alt-W to wipe your device. (You need to do this, or the device may hang at the flashing Android screen)<br>
+7 Press alt-S to apply the update.<br>
+
+JF's RC33 v1.42: http://android-roms.googlecode.com/files/JFv1.42_RC33.zip  (This is the USA TMobile Release Candidate with Root, Multi-Touch)<br>
+JF's ADP 1.1 v1.43 (Holiday): http://jf.odiness.com/v1.43/JFv1.43_Holiday.zip   (This is the Android Dev Phone 1 Holiday Release with Root, Multi-Touch)<br>
+JF's RC9 v1.43: http://jf.odiness.com/v1.43/JFv1.43_RC9.zip   (This is the UK Release Candidate with Root, Multi-Touch)<br>
+
+*To Continue on please go to <a href="http://code.google.com/p/android-roms/wiki/Radio_Update">Radio Update</a>*
