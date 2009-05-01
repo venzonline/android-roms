@@ -19,8 +19,8 @@ Next we will install the latest JF Version.
 3 Copy it to the root of your phone's SD card.<br>
 4 Turn your phone off.<br>
 5 Start up in recovery mode by holding Home and pressing Power.<br>
-6 Press ALT+W to wipe your device. (You need to do this, or the device may hang at the flashing Android screen)<br>
-7 Press ALT+S to apply the update.<br>
+6 Press *ALT+W* to wipe your device. (You need to do this, or the device may hang at the flashing Android screen)<br>
+7 Press *ALT+S* to apply the update.<br>
 
 *_Latest Build Table_*
 
