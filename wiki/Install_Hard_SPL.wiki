@@ -21,7 +21,7 @@ Location of the Hard SPL: http://android-roms.googlecode.com/files/splhard1_upda
 3 You will now enter recovery mode. You should see an exclamation.<br>
 4 If you do not see a menu / text on screen, press *ALT+L* to show the menu.<br>
 5 Press *ALT+S* to apply the update from the SD card.<br>
-6 After the update is complete, hold Home and press Back to restart.<br>
+6 After the update is complete, hold *Home + Back* to restart.<br>
 
 *_- You've now applied the Hard SPL to your phone -_*   
 
