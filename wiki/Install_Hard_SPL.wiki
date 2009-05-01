@@ -1,4 +1,4 @@
-#summary Installing the Hard SPL
+#summary How To: Install the Hard SPL
 #labels Featured
 
 *<font color="#FF0000">=================================================================================</font><br>
