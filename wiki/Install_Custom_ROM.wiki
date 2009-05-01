@@ -45,4 +45,6 @@ All builds are fully funcational, some applications from the market may crash on
 _For the most part all of these builds are very similar, the HTC Branch has a different virtual keyboard and also is a bit prettier some would say._<br>
 _The other Google / ADP builds are almost identical with the exception to the haykuro's Google Branch that has a different animation when u rotate the phone._<br> 
 
+*The initial boot after this change may take a bit longer this is ok allow it some additional time to boot and load the new build.*<br>
+
 *To Continue on please go to <a href="http://code.google.com/p/android-roms/wiki/Radio_Update">Radio Update</a>*
