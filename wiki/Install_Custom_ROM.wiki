@@ -21,9 +21,28 @@ Next we will install the latest JF Version.
 6 Press alt-W to wipe your device. (You need to do this, or the device may hang at the flashing Android screen)<br>
 7 Press alt-S to apply the update.<br>
 
-_All Builds Below Contain Root, Multi-Touch and busybox_<br>
-JF's RC33 v1.42: http://android-roms.googlecode.com/files/JFv1.42_RC33.zip  (This is the USA TMobile Release Candidate)<br>
-JF's ADP 1.1 v1.43 (Holiday): http://jf.odiness.com/v1.43/JFv1.43_Holiday.zip   (This is the Android Dev Phone 1 Holiday Release)<br>
-JF's RC9 v1.43: http://jf.odiness.com/v1.43/JFv1.43_RC9.zip   (This is the UK Release Candidate)<br>
+*_Latest Build Table_*
+
+|| *Build* || *Notes* || *Link* ||
+|| JF's RC33 v1.42 || USA T-Mobile Release Candidate, Root, Multi-Touch & Busybox || http://android-roms.googlecode.com/files/JFv1.42_RC33.zip ||
+|| JF's ADP 1.1 v1.43 (Holiday) || Android Dev Phone 1 Holiday Release, Root, Multi-Touch & Busybox || http://jf.odiness.com/v1.43/JFv1.43_Holiday.zip ||
+|| JF's RC9 v1.43 || UK Release Candidate, Root, Multi-Touch & Busybox || http://jf.odiness.com/v1.43/JFv1.43_RC9.zip ||
+|| haykuro's v5.0.2 Google (Cupcake) || Root, Busybox, Fancy Animations || http://android-roms.googlecode.com/files/haykuro_502G.zip ||
+|| haykuro's v5.0.2 Google (Cupcake) A2SD || Root, Busybox, Fancy Animations, Apps 2 SD || http://sharebee.com/b421bf8f ||
+|| haykuro's v5.0.2 `r`5 HTC (Cupcake) || Busybox, Prettiest Build, HTC VK || http://android-roms.googlecode.com/files/haykuro_502Hr5.zip ||
+|| haykuro's v5.0.2 `r`5 HTC (Cupcake) A2SD || Busybox, Prettiest Build, HTC VK, Apps 2 SD ||http://sharebee.com/43ba3492 || 
+|| haykuro's ADP 1.5 `r`3 (Cupcake) || Root, Busybox, Multi-Touch || http://android-roms.googlecode.com/files/Hv1.5r3-signed.zip ||
+|| haykuro's ADP 1.5 `r`3 (Cupcake) A2SD || Root, Busybox, Multi-Touch, Apps 2 SD || http://www.droiddeveloper.com/hrbuilds/Hv1.5r3-a2sd-signed.zip ||
+|| `TheDudes `v0.92 (Cupcake) || Root, Busybox, AOSP + ADP1.5 || http://android-roms.googlecode.com/files/TheDudesCupcake0.92.reg.nowipe-signed.zip ||
+|| `TheDudes `v0.92 (Cupcake) A2SD || Root, Busybox, AOSP + ADP1.5, Apps 2 SD || http://thedudescupcake.googlecode.com/files/TheDudesCupcake0.92.apps2sd.nowipe-signed.zip ||
+
+All builds are fully funcational, some applications from the market may crash on you if they are not compatible with the 1.5 firmware.
+
+*- WHEN SWITHCING BETWEEN DIFFERENT BRANCHES (I.E. SWITHCING FROM HAYKURO'S 502G BUILD TO HAYKURO'S 502H `r`5 BUILD) YOU WILL NEED TO WIPE (ALT+W FROM THE RECOVERY MENU) THE PHONE PRIOR TO APPLYING THE UPDATE. -*
+
+*- IF YOU ARE JUST UPDATING THE SAME BUILD (I.E. UPGRADING FROM The Dudes v0.90 TO The Dudes v0.92) YOU DO NOT NEED TO DO A WIPE PRIOR TO APPLYING THE UPDATE. -*
+
+_For the most part all of these builds are very similar, the HTC Branch has a different virtual keyboard and also is a bit prettier some would say._<br>
+_The other Google / ADP builds are almost identical with the exception to the haykuro's Google Branch that has a different animation when u rotate the phone._<br> 
 
 *To Continue on please go to <a href="http://code.google.com/p/android-roms/wiki/Radio_Update">Radio Update</a>*
