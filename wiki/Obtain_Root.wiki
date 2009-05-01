@@ -6,6 +6,9 @@
   <font color="#FF0000">IF YOU DO NOT KNOW WHAT ROOT IS ... YOU PROBABLY DON'T NEED IT</font>                 <br>
 <font color="#FF0000">=================================================================================</font>*<br>
 
+
+*PROCEED WITH CAUTION*
+
 = Rooting your Phone =
 
 *_- On RC29 phones and lower, anything you type into your keyboard is also being run in a hidden console with root permissions. -_*
