@@ -14,7 +14,7 @@
 
 Next we will install the latest JF Version.
 
-1 Download the image.<br>
+1 Download the build.<br>
 2 Rename it to "_update.zip_".<br>
 3 Copy it to the root of your phone's SD card.<br>
 4 Turn your phone off.<br>
