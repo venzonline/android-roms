@@ -1,6 +1,13 @@
-#summary One-sentence summary of this page.
+#summary NANDROID Backup.
+
+*<font color="#FF0000">=================================================================================</font><br>
+  <font color="#FF0000">DISCLAIMER: I AM NOT RESPONSIBLE IF YOU BRICK / RUIN YOUR PHONE IN ANY WAY.</font>    <br>
+  <font color="#FF0000">BASIC COMPUTER SKILLS REQUIRED</font>                                                 <br>
+  <font color="#FF0000">IF YOU DO NOT KNOW WHAT ROOT IS ... YOU PROBABLY DON'T NEED IT</font>                 <br>
+<font color="#FF0000">=================================================================================</font>*<br>
 
 
+*PROCEED WITH CAUTION*
 
 = Performing a NANDROID Backup =
 
@@ -16,4 +23,5 @@ Next your phone will reboot and load the OS, at this point you should copy the f
 1 Mount your SDCard to your PC<br>
 2 On your SDCard change to the nandroid/HT840GZ30985<br>
 3 Inside this folder you will see another folder the first 8 digits of this folder name is the date it was created in the YYYYMMDD format and the last four are the time.<br>
-4 Copy this entire folder to your PC and save it.  As you make more backups to your phone repeat this process.  I tend to append the build the backup is of i.e. 20090429-0421_ADP_Hv15_r2 So I know this build is the ADP build by haykuro version 2.
+4 Copy this entire folder to your PC and save it.  As you make more backups to your phone repeat this process.<br>
+_NOTE:I tend to append the build the backup is of i.e. 20090429-0421_ADP_Hv15_r2 So I know this build is the ADP build by haykuro version 2._
