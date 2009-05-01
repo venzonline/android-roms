@@ -6,9 +6,9 @@
   * [SPL Install / Update SPL]
   * [Get_Root Preparing to get Root]
   * [Obtain_Root Rooting your Phone]
-  * [Install_Hard_SPL Installation of Hard SPL]
-  * [Install_Custom_ROM Installation of Custom ROM]
-  * [HTMLElements HTML reference]
+  * [Install_Hard_SPL Installing Hard SPL]
+  * [Install_Custom_ROM Installing Custom ROM]
+  * [Radio_Update Radio Update]
   * [CSSReference CSS reference]
 
 * Misc Articles *
