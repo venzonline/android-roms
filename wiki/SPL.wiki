@@ -23,7 +23,7 @@ The SPLs are packaged in the familiar _update.zip_ format and install from the r
 
   * 1. If you are installing onto a G1, your G1 must have a modified recovery partition. If you have one of JesusFreke's Android builds installed, then you have a modified recovery partition
   * 2. Download the desired SPL zip file (<a href="http://code.google.com/p/android-roms/downloads/list?q=label:SPL">SPL Downloads</a>), rename it to _update.zip_ and copy it to the root of your sdcard. As usual, remember to use a USB cable with a ferrite core and dismount your USB drive before disconnecting.
-  * 3. Reboot the phone into recovery console and flash the update with *Alt+S*.
+  * 3. Reboot the phone into recovery console and flash the update with *ALT+S*.
   * 4. To confirm it has installed properly, power on the G1 with *<font color="#FF0000">END</font> + Camera* to enter the bootloader. When you are done, press *<font color="#00FF00">CALL</font> + MENU + <font color="#FF0000">END</font>* to leave the bootloader.
   * 5. To revert a G1 to its factory original SPL, simply use the G1 Original SPL.
 
