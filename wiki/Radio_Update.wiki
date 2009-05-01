@@ -1,4 +1,4 @@
-#summary Installation of a Radio Update.
+#summary How To: Install a Radio Update.
 #labels Featured
 
 *<font color="#FF0000">=================================================================================</font><br>
@@ -29,7 +29,7 @@ Compare the Baseband value to the table below to see if you are using the correc
 Once this is done double check the Baseband has been updated properly via:
    _Press Menu - Settings - About Phone - Scroll down till you see Baseband version_, you should see the radio version on this row if not you will need to update the Radio again.
 
-*To Confirm which Radio you should be using check at the table below:*
+*To Confirm which Radio you should be using check the table below:*
 
 || *Build* || *Radio* || *Link* ||
 || JF's RC33 v1.42 || 1.22.14.11 || http://android-roms.googlecode.com/files/Radio_Dream_RC33_1_22_14_11.zip ||
