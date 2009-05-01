@@ -1,0 +1,46 @@
+#summary Installation of a Radio Update.
+
+*<font color="#FF0000">=================================================================================</font><br>
+  <font color="#FF0000">DISCLAIMER: I AM NOT RESPONSIBLE IF YOU BRICK / RUIN YOUR PHONE IN ANY WAY.</font>    <br>
+  <font color="#FF0000">BASIC COMPUTER SKILLS REQUIRED</font>                                                 <br>
+  <font color="#FF0000">IF YOU DO NOT KNOW WHAT ROOT IS ... YOU PROBABLY DON'T NEED IT</font>                 <br>
+<font color="#FF0000">=================================================================================</font>*<br>
+
+
+*PROCEED WITH CAUTION*
+
+= Installing the Radio Update =
+
+Next you will want to confirm your Radio Baseband.<br>
+To Confirm this _Press Menu - Settings - About Phone - Scroll down till you see Baseband version_. <br>
+Compare the Baseband value to the table below to see if you are using the correct radio for your build or if you need to update. 
+
+*To update the Radio:*
+
+1 Download the Radio zip.<br>
+2 Rename it to "_update.zip_".<br>
+3 Copy it to the root of your phone's SD card.<br>
+4 Turn your phone off.<br>
+5 Start up in recovery mode by holding Home and pressing Power.<br>
+6 Press alt-S to apply the update.<br>
+7 Once the update is applied press Home+Back to reboot the phone.  The Phone will start to boot up and then continue applying the update.  Once this is completed the Recovery menu will ask you for the second time to reboot the phone via Home+Back<br>
+
+Once this is done double check the Baseband has been updated properly via:
+   _Press Menu - Settings - About Phone - Scroll down till you see Baseband version_, you should see the radio version on this row if not you will need to update the Radio again.
+
+*To Confirm which Radio you should be using check at the table below:*
+
+|| *Build* || *Radio* || *Link* ||
+|| JF's RC33 v1.42 || 1.22.14.11 || http://android-roms.googlecode.com/files/Radio_Dream_RC33_1_22_14_11.zip ||
+|| JF's ADP 1.1 v1.43 (Holiday) || 1.22.14.11 || http://android-roms.googlecode.com/files/Radio_Dream_RC33_1_22_14_11.zip ||
+|| JF's RC9 v1.43 || 1.22.14.11 || http://android-roms.googlecode.com/files/Radio_Dream_RC33_1_22_14_11.zip ||
+|| haykuro's v5.0.2 Google (Cupcake) || 2.22.19.23 || http://android-roms.googlecode.com/files/Radio_Sapphire_2_22_19_23.zip ||
+|| haykuro's v5.0.2 Google (Cupcake) A2SD || 2.22.19.23 || http://android-roms.googlecode.com/files/Radio_Sapphire_2_22_19_23.zip ||
+|| haykuro's v5.0.2 r5 HTC (Cupcake) || 2.22.19.23 || http://android-roms.googlecode.com/files/Radio_Sapphire_2_22_19_23.zip ||
+|| haykuro's v5.0.2 r5 HTC (Cupcake) A2SD || 2.22.19.23 ||http://android-roms.googlecode.com/files/Radio_Sapphire_2_22_19_23.zip || 
+|| haykuro's ADP 1.5 r3 (Cupcake) || 2.22.19.26I || http://android-roms.googlecode.com/files/ota-radio-2_22_19_26I.zip ||
+|| haykuro's ADP 1.5 r3 (Cupcake) A2SD || 2.22.19.26I || http://android-roms.googlecode.com/files/ota-radio-2_22_19_26I.zip ||
+|| TheDudes v0.92 (Cupcake) || 2.22.19.26I || http://android-roms.googlecode.com/files/ota-radio-2_22_19_26I.zip ||
+|| TheDudes v0.92 (Cupcake) A2SD || 2.22.19.26I || http://android-roms.googlecode.com/files/ota-radio-2_22_19_26I.zip ||
+
+*To Continue on please go to <a href="http://code.google.com/p/android-roms/wiki/Radio_Update">Radio Update</a>*
