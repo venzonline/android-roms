@@ -23,7 +23,10 @@
 3 Turn the device power off.<br>
 4 Hold Camera button, and press Power button to entry bootloader mode.
       You should see a gray/white screen with instructions to flash your phone with the update on your SD card. If you don't see that, make sure you followed the instructions properly.
-5 As per the on-screen instructions, press the Power button to start the upgrade process.  *<font color="#FF0000">DURING THIS PROCESS DO NOT DO ANYTHING TO INTERRUPT THE PROCESS!</font>*<br>
+5 As per the on-screen instructions, press the Power button to start the upgrade process.  
+
+<h3>*<font color="#FF0000">DURING THIS PROCESS DO NOT DO ANYTHING TO INTERRUPT THIS PROCESS!</font>*</h3>
+
 6 After the upgrade is finished, restart the phone (you can restart by pressing Home+Back)
 
 *_- You have now successfully downgraded your phone which will allow you to gain root access -_*
