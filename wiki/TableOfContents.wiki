@@ -3,7 +3,7 @@
 <wiki:toc max_depth="1" />
 * [TableOfContents Table Of Contents]
 <br><br>
-* *How To Articles*
+* *How To Articles* *
   * [SPL Install / Update SPL]
   * [Get_Root Preparing to get Root]
   * [Obtain_Root Rooting your Phone]
@@ -14,5 +14,5 @@
   * [NANDROID_Fastboot NANDROID / Fastboot]
   * [Unroot Unroot / Restore Stock]
 
-* Misc Articles *
+* Misc Articles* *
   * [Secret_Star_Codes Secret Star Codes]
