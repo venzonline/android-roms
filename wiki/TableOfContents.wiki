@@ -3,7 +3,7 @@
 <wiki:toc max_depth="1" />
 * [TableOfContents Table Of Contents]
 <br><br>
-* How To Articles *
+* *How To Articles*
   * [SPL Install / Update SPL]
   * [Get_Root Preparing to get Root]
   * [Obtain_Root Rooting your Phone]
