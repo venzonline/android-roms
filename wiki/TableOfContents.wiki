@@ -10,6 +10,8 @@
   * [Install_Custom_ROM Installing Custom ROM]
   * [Radio_Update Radio Update]
   * [NANDROID_Backup NANDROID Backup]
+  * [NANDROID_Fastboot NANDROID / Fastboot]
+  * [Unroot Unroot / Restore Stock]
 
 * Misc Articles *
   * [Secret_Star_Codes Secret Star Codes]
