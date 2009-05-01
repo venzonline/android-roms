@@ -21,8 +21,9 @@ Next we will install the latest JF Version.
 6 Press alt-W to wipe your device. (You need to do this, or the device may hang at the flashing Android screen)<br>
 7 Press alt-S to apply the update.<br>
 
-JF's RC33 v1.42: http://android-roms.googlecode.com/files/JFv1.42_RC33.zip  (This is the USA TMobile Release Candidate with Root, Multi-Touch)<br>
-JF's ADP 1.1 v1.43 (Holiday): http://jf.odiness.com/v1.43/JFv1.43_Holiday.zip   (This is the Android Dev Phone 1 Holiday Release with Root, Multi-Touch)<br>
-JF's RC9 v1.43: http://jf.odiness.com/v1.43/JFv1.43_RC9.zip   (This is the UK Release Candidate with Root, Multi-Touch)<br>
+All Builds Below Contain Root, Multi-Touch and busybox
+JF's RC33 v1.42: http://android-roms.googlecode.com/files/JFv1.42_RC33.zip  (This is the USA TMobile Release Candidate)<br>
+JF's ADP 1.1 v1.43 (Holiday): http://jf.odiness.com/v1.43/JFv1.43_Holiday.zip   (This is the Android Dev Phone 1 Holiday Release)<br>
+JF's RC9 v1.43: http://jf.odiness.com/v1.43/JFv1.43_RC9.zip   (This is the UK Release Candidate)<br>
 
 *To Continue on please go to <a href="http://code.google.com/p/android-roms/wiki/Radio_Update">Radio Update</a>*
