@@ -1,4 +1,4 @@
-#summary Installation of the Latest Custom ROM
+#summary How To: Install the Latest Custom ROM
 #labels Featured
 
 *<font color="#FF0000">=================================================================================</font><br>
