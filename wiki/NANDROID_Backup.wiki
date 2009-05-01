@@ -28,3 +28,5 @@ Next your phone will reboot and load the OS, at this point you should copy the f
 _NOTE:I tend to append the build the backup is of i.e. 20090429-0421_ADP_Hv15_r2 So I know this build is the ADP build by haykuro version 2._<br>
 
 Next I explain how to restore your phone from these backups...
+
+*To Continue on please go to <a href="http://code.google.com/p/android-roms/wiki/NANDROID_Fastboot">NANDROID / Fastboot</a>*
