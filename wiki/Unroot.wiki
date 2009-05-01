@@ -1,5 +1,14 @@
 #summary Remove Root / Stock G1.
 
+*<font color="#FF0000">=================================================================================</font><br>
+  <font color="#FF0000">DISCLAIMER: I AM NOT RESPONSIBLE IF YOU BRICK / RUIN YOUR PHONE IN ANY WAY.</font>    <br>
+  <font color="#FF0000">BASIC COMPUTER SKILLS REQUIRED</font>                                                 <br>
+  <font color="#FF0000">IF YOU DO NOT KNOW WHAT ROOT IS ... YOU PROBABLY DON'T NEED IT</font>                 <br>
+<font color="#FF0000">=================================================================================</font>*<br>
+
+
+*PROCEED WITH CAUTION*
+
 = Unroot your Phone / Place Phone Back to Stock =
 
 1 Download the _DREAIMG.nbh_: http://android-roms.googlecode.com/files/DREAIMG-RC29.zip<br>
