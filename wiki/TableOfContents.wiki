@@ -7,7 +7,7 @@
   * [Get_Root Preparing to get Root]
   * [Obtain_Root Rooting your Phone]
   * [Install_Hard_SPL Installation of Hard SPL]
-  * [DOMReference DOM reference]
+  * [Install_Custom_ROM Installation of Custom ROM]
   * [HTMLElements HTML reference]
   * [CSSReference CSS reference]
 
