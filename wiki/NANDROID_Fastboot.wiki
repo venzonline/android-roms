@@ -10,3 +10,10 @@
 *PROCEED WITH CAUTION*
 
 = - Restore Phone Via NANDROID Backup & Fastboot - =
+
+So now you've just backed up your phone or bricked it and want to know how in the hell do I recover my phone with these backups I'm creating... <br>
+
+*Things you will need:*<br>
+*Android SDK*: http://developer.android.com/sdk/download.html?v=android-sdk-windows-1.5_r1.zip<br>
+*Fastboot Windows Binary*: http://android-roms.googlecode.com/files/fastboot-win32.zip<br>
+*Android USB Drivers*: http://android-roms.googlecode.com/files/android_usb_windows.zip <br>
