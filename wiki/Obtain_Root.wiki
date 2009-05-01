@@ -1,0 +1,34 @@
+#summary How To: Root your Phone
+
+*<font color="#FF0000">=================================================================================</font><br>
+  <font color="#FF0000">DISCLAIMER: I AM NOT RESPONSIBLE IF YOU BRICK / RUIN YOUR PHONE IN ANY WAY.</font>    <br>
+  <font color="#FF0000">BASIC COMPUTER SKILLS REQUIRED</font>                                                 <br>
+  <font color="#FF0000">IF YOU DO NOT KNOW WHAT ROOT IS ... YOU PROBABLY DON'T NEED IT</font>                 <br>
+<font color="#FF0000">=================================================================================</font>*<br>
+
+= Rooting your Phone =
+
+*_- On RC29 phones and lower, anything you type into your keyboard is also being run in a hidden console with root permissions. -_*
+
+To get root access, do the following:
+
+1 Download _recovery.img_ and copy it to your SD card (see the previous instructions on how to copy from your computer to your Phone's SD card). Confirm file is named "_recovery.img_"
+      Location of the recovery.img: http://android-roms.googlecode.com/files/recovery.img
+2 Download the Hard SPL and copy the zip file to the SD card. Rename this file to "_update.zip_".
+      Location of the Hard SPL: http://android-roms.googlecode.com/files/splhard1_update_signed.zip
+3 Make sure both files are on the root of your SD card.<br>
+4 Restart your phone normally and wait for your phone to start up fully and show the home screen.<br>
+5 After your phone starts up, hit the enter key twice, type "telnetd" and press enter. (Yes, it will start up a contact search, don't worry. Just type it.)(Also if you have terminal installed you can enter this cmd on the terminal screen)<br>
+6 Turn on your WiFi Radio and connect to your Wireless Network, once connected ... Download and install an Application from the Market "Telnet" and connect to localhost.<br>
+7 If you connect successfully, you will have a root prompt "#". <br>
+8 Type the following into Telnet (these commands will give you root access easier in the future):<br>
+
+(The below process changes the /system partition from read only to read/write)
+      _mount -o rw,remount -t yaffs2 /dev/block/mtdblock3 /system_<br>
+      _cd /sdcard_<br>           
+      _flash_image recovery recovery.img_<br>
+      _cat recovery.img > /system/recovery.img_<br>
+      
+*_- You now have root -_*
+
+*To Continue on please go to Installing the Hard SPL*
