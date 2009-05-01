@@ -25,6 +25,6 @@ Location of the Hard SPL: http://android-roms.googlecode.com/files/splhard1_upda
 
 *_- You've now applied the Hard SPL to your phone -_*   
 
-Next we will install the latest JF Version.
+Next we will install the latest Custom ROM.
 
 *To Continue on please go to <a href="http://code.google.com/p/android-roms/wiki/Install_Custom_ROM">Installing the Latest Custom ROM</a>*
