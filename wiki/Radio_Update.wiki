@@ -40,7 +40,7 @@ Once this is done double check the Baseband has been updated properly via:
 || haykuro's v5.0.2 `r`5 HTC (Cupcake) A2SD || 2.22.19.23 ||http://android-roms.googlecode.com/files/Radio_Sapphire_2_22_19_23.zip || 
 || haykuro's ADP 1.5 `r`3 (Cupcake) || 2.22.19.26I || http://android-roms.googlecode.com/files/ota-radio-2_22_19_26I.zip ||
 || haykuro's ADP 1.5 `r`3 (Cupcake) A2SD || 2.22.19.26I || http://android-roms.googlecode.com/files/ota-radio-2_22_19_26I.zip ||
-|| TheDudes `v`0.92 (Cupcake) || 2.22.19.26I || http://android-roms.googlecode.com/files/ota-radio-2_22_19_26I.zip ||
-|| TheDudes `v`0.92 (Cupcake) A2SD || 2.22.19.26I || http://android-roms.googlecode.com/files/ota-radio-2_22_19_26I.zip ||
+|| TheDudes` `v0.92 (Cupcake) || 2.22.19.26I || http://android-roms.googlecode.com/files/ota-radio-2_22_19_26I.zip ||
+|| TheDudes` `v0.92 (Cupcake) A2SD || 2.22.19.26I || http://android-roms.googlecode.com/files/ota-radio-2_22_19_26I.zip ||
 
 *To Continue on please go to <a href="http://code.google.com/p/android-roms/wiki/Radio_Update">Radio Update</a>*
