@@ -3,10 +3,10 @@
 * [TableOfContents Table Of Contents]
 <br><br>
 * How To Articles *
-    * [SPL Install / Update SPL]
-    * [Get_Root Preparing to get Root]
-    * [ArticlesStyle CSS and style]
-    * [ArticlesTips Tips and tricks]
+  * [SPL Install / Update SPL]
+  * [Get_Root Preparing to get Root]
+  * [Obtain_Root Rooting your Phone]
+  * [ArticlesTips Tips and tricks]
   * [DOMReference DOM reference]
   * [HTMLElements HTML reference]
   * [CSSReference CSS reference]
