@@ -18,7 +18,7 @@
       Hook your phone up to your computer using a USB cable and then wait for the notification to show up in your title bar of your phone.
       Click the notification, and then click "Mount".
       A new removable disk should show up on your computer. Right click it and select Format, and select FAT32 as the file system type.
-2 Download and unzip the RC29 image file, unzip the file and copy the "_DREAMIMG.nbh_" file to the root of your SD card.  Confirm the name of the file is exactly this: _DREAMIMG.nbh_
+2 Download and unzip the RC29 image file, unzip the file and copy the "_DREAIMG.nbh_" file to the root of your SD card.  Confirm the name of the file is exactly this: _DREAIMG.nbh_
       Location of the RC29 Image: http://android-roms.googlecode.com/files/DREAIMG-RC29.zip
 3 Turn the device power off.<br>
 4 Hold Camera button, and press Power button to entry bootloader mode.
