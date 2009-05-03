@@ -34,9 +34,9 @@ Next we will install the latest JF Version.
 || haykuro's v5.0.2 `r`5 HTC (Cupcake) A2SD || Busybox, Prettiest Build, HTC VK, Apps 2 SD ||http://sharebee.com/43ba3492 || 
 || haykuro's ADP 1.5 `r`3 (Cupcake) || Root, Busybox, Multi-Touch || http://android-roms.googlecode.com/files/Hv1.5r3-signed.zip ||
 || haykuro's ADP 1.5 `r`3 (Cupcake) A2SD || Root, Busybox, Multi-Touch, Apps 2 SD || http://www.droiddeveloper.com/hrbuilds/Hv1.5r3-a2sd-signed.zip ||
-|| `TheDudes `v0.92 (Cupcake) || Root, Busybox, AOSP + ADP1.5 || http://android-roms.googlecode.com/files/TheDudesCupcake0.92.reg.nowipe-signed.zip ||
-|| `TheDudes `v0.92 (Cupcake) A2SD || Root, Busybox, AOSP + ADP1.5, Apps 2 SD || http://thedudescupcake.googlecode.com/files/TheDudesCupcake0.92.apps2sd.nowipe-signed.zip ||
-
+|| `TheDudes `v0.93 (Cupcake) || Root, Busybox, AOSP + ADP1.5 || http://android-roms.googlecode.com/files/TheDudesCupcake0.93.nowipe.reg-signed.zip ||
+|| `TheDudes `v0.93 (Cupcake) A2SD || Root, Busybox, AOSP + ADP1.5, Apps 2 SD || http://thedudescupcake.googlecode.com/files/TheDudesCupcake0.93.nowipe.a2sd-signed.zip ||
+|| JF v1.50 ADP (Cupcake) A2SD || Root, Busybox, ADP1.5, Apps 2 SD || http://android-roms.googlecode.com/files/JFv1.50_ADP1.5.zip ||
 All builds are fully funcational, some applications from the market may crash on you if they are not compatible with the 1.5 firmware.
 
 *- WHEN SWITHCING BETWEEN DIFFERENT BRANCHES (I.E. SWITHCING FROM HAYKURO'S 502G BUILD TO HAYKURO'S 502H `r`5 BUILD) YOU WILL NEED TO WIPE (ALT+W FROM THE RECOVERY MENU) THE PHONE PRIOR TO APPLYING THE UPDATE. -*
