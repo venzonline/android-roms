@@ -79,4 +79,4 @@ Via ADB Shell:<br>
 
 If your run into any serious problems, there is a log file located at: _/data/sdsplit.log_ if you can get it off your phone.
 
-*To Continue on please go to <a href="http://code.google.com/p/android-roms/wiki/A2SD">App 2 SD (symlinks)</a>*
+*To Continue on please go to <a href="http://code.google.com/p/android-roms/wiki/A2SD">Setting up your phone to work with Apps 2 SD (symlinks)</a>*
