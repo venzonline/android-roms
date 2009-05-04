@@ -12,9 +12,9 @@
   * [Radio_Update Radio Update]
   * [NANDROID_Backup NANDROID Backup]
   * [NANDROID_Fastboot NANDROID / Fastboot]
-  * [Unroot Unroot / Restore Stock]
   * [Fat_Ext2_Partition Partition SDCard Fat32 / Ext2]
   * [A2SD Apps 2 SD]
+  * [Unroot Unroot / Restore Stock]
 
 * Misc Articles* *
   * [Secret_Star_Codes Secret Star Codes]
