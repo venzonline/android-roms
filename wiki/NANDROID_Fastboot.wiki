@@ -73,4 +73,4 @@ Once the files are in the same directory that Cmd Prompt is accessing then type 
 <br>
 Finally if you want to return your phone back to Stock please continue on...
 
-*To Continue on please go to <a href="http://code.google.com/p/android-roms/wiki/Unroot">Unroot your Phone / Place Phone Back to Stock</a>*
+*To Continue on please go to <a href="http://code.google.com/p/android-roms/wiki/Fat_Ext2_Partition">Partition your SDCard Fat32 / Ext2</a>*
