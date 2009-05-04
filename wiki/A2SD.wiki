@@ -1,4 +1,5 @@
 #summary How To: Apps 2 SD
+#labels Featured
 
 *<font color="#FF0000">=================================================================================</font><br>
   <font color="#FF0000">DISCLAIMER: I AM NOT RESPONSIBLE IF YOU BRICK / RUIN YOUR PHONE IN ANY WAY.</font>    <br>
