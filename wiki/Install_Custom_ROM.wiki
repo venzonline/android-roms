@@ -39,6 +39,16 @@ Next we will install the latest JF Version.
 || JF v1.50 ADP (Cupcake) A2SD || Root, Busybox, ADP1.5, Apps 2 SD || http://android-roms.googlecode.com/files/JFv1.50_ADP1.5.zip ||
 All builds are fully funcational, some applications from the market may crash on you if they are not compatible with the 1.5 firmware.
 
+*If you go from the RC29 Image to a Cupcake Build you will need to flash the JF Recovery to your phone<br>*
+Location: http://android-roms.googlecode.com/files/JFv1.43_Recovery.zip<br>
+
+1 Download the image.<br>
+2 Rename it to "_update.zip_".<br>
+3 Copy it to the root of your phone's SD card.<br>
+4 Turn your phone off.<br>
+5 Start up in recovery mode by holding Home and pressing Power.<br>
+6 Press *ALT+S* to apply the update.<br>
+
 *- WHEN SWITHCING BETWEEN DIFFERENT BRANCHES (I.E. SWITHCING FROM HAYKURO'S 502G BUILD TO HAYKURO'S 502H `r`5 BUILD) YOU WILL NEED TO WIPE (ALT+W FROM THE RECOVERY MENU) THE PHONE PRIOR TO APPLYING THE UPDATE. -*
 
 *- IF YOU ARE JUST UPDATING THE SAME BUILD (I.E. UPGRADING FROM The Dudes v0.90 TO The Dudes v0.92) YOU DO NOT NEED TO DO A WIPE PRIOR TO APPLYING THE UPDATE. -*
