@@ -55,3 +55,5 @@ Again the 4-7 cmds are optional & for the cache only of an app, so if you moved 
 During the reboot process your phone might take a while at the android screen since it has to populate the apps tray. If it lasts >5-10 minutes then something likely went wrong. Make sure you did all the steps correctly & if you did try the steps in the recovery terminal section of this tutorial again. If it still doesn't work, post here & we'll try to get it sorted out. That aside, enjoy having your apps on SD card!
 
 _Also I wouldn't suggest you moving the /data/app-private._
+
+*To Continue on please go to <a href="http://code.google.com/p/android-roms/wiki/Unroot">Unroot your Phone / Place Phone Back to Stock</a>*
