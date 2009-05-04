@@ -1,0 +1,82 @@
+#summary How To: Partition SDCard Fat32 / Ext2
+
+*<font color="#FF0000">=================================================================================</font><br>
+  <font color="#FF0000">DISCLAIMER: I AM NOT RESPONSIBLE IF YOU BRICK / RUIN YOUR PHONE IN ANY WAY.</font>    <br>
+  <font color="#FF0000">BASIC COMPUTER SKILLS REQUIRED</font>                                                 <br>
+  <font color="#FF0000">IF YOU DO NOT KNOW WHAT ROOT IS ... YOU PROBABLY DON'T NEED IT</font>                 <br>
+<font color="#FF0000">=================================================================================</font>*<br>
+
+
+*PROCEED WITH CAUTION*
+
+= SDSPLIT repartition your SDcard Fat32 / Ext2 =
+
+1 Must have a Custom ROM installed!<br>
+2 Install the sdsplit executable to your phone. To so this, open the '_terminal_' application / ADB Shell and type the following commands at the prompts:<br><br>
+*_(Note: you will need an internet connection on your phone for this step)_*<br>
+_If you are running these cmds from ADB Shell you do not need to type "su" as you will already have root_
+
+<font color="#FF0000">$ su</font> <br>
+<font color="#FF0000"># cd /data</font> <br>
+<font color="#FF0000"># wget http://64.105.21.209/bin/lib/droid/sdsplit</font> <br>
+<font color="#FF0000"># chmod 555 sdsplit</font> <br>
+<font color="#FF0000"># exit</font><br>
+
+3 Decide the size of your FAT partition:
+
+You should use one of two approaches to decide the size of your FAT partition. The first one involves simply directly deciding this size (i.e. I want a 5G FAT partition). In this case, the EXT2 partition will be the remainder of the card.
+
+*size_of_fat_partition = size*
+
+The second method is based upon the fact that you want to decide the size of the EXT2 partition and would like the FAT partition to be the remainder of the card. In this case, the size of the FAT partition will be based on the size of your sdcard and the size of the EXT2 partition that you want. Use this formula to calculate it:
+
+*size_of_sdcard - size_of_ext2_partition = size* 
+
+So, if you have an *8GB* sdcard and want *1GB* of space for apps on your EXT2 partition, use *_7000M_* for the FAT size.
+
+No matter which method you use, you will need to specify either bytes (no parameter), kilobytes (K) or megabytes (M) . So, for a _5G_ partition would use a _5000M_ size parameter.
+
+*Note: The size parameter is currently _case_ _sensitive_, use 7500<font color="#FF0000">M</font>, not 7500<font color="#FF0000">m</font>!*
+
+
+4 Backup your SDCard onto your PC <br>
+
+_Note: To figure out how much data (in K) you have on you FAT partition, you can type the following in your terminal / ADB Shell (the sdcard can not be mounted for this cmd to work):_
+
+<font color="#FF0000">$ du -s /sdcard</font> 
+
+_Note: to find out how much free space is left on your /data partition type (see available)_
+
+<font color="#FF0000">$ df /data</font> 
+
+5 Run sdsplit. Use the size from step 3 below (do not forget the "*M*" in size if you are specifying megabytes): 
+_(Note: you will need an internet connection on your phone for this step)_
+
+
+*Note: If you are using the JF1.5 update, you should put a _-nc_ at the end of the commands below since system configuration is not needed!*
+
+*Non JF1.5 Build:*<br>
+<font color="#FF0000">$ su</font><br> 
+<font color="#FF0000"># /data/sdsplit -nd -fs size</font><br>
+<font color="#FF0000"># exit</font><br> 
+
+*JF1.5 Build:*<br>
+<font color="#FF0000">$ su</font><br> 
+<font color="#FF0000"># /data/sdsplit -nd -fs size -nc</font><br>
+<font color="#FF0000"># exit</font><br> 
+
+Please, remember to record the output of this stage if you run into a problem. There will be a permanent record of it in, _/data/sdsplit.log_.
+
+6 Reboot your phone, via terminal:<br>
+<font color="#FF0000">reboot</font><br>
+
+Via ADB Shell:<br>
+<font color="#FF0000">adb shell reboot</font><br>
+
+7 Restore your data from your PC to your Fat partition of your SDCard.<br>
+
+8 *You're done! You should have two partitions now on your sdcard. The FAT one mounted at /sdcard and the EXT2 one mounted at /system/sd.*
+
+If your run into any serious problems, there is a log file located at: _/data/sdsplit.log_ if you can get it off your phone.
+
+*To Continue on please go to <a href="http://code.google.com/p/android-roms/wiki/A2SD">App 2 SD (symlinks)</a>*
