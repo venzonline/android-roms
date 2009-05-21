@@ -78,6 +78,22 @@ Via ADB Shell:<br>
 
 8 *You're done! You should have two partitions now on your sdcard. The FAT one mounted at /sdcard and the EXT2 one mounted at /system/sd.*
 
+<hr>
+
+*DO IT AGAIN:*
+
+If you simply want to change the size of your partitions because you are not happy with them after the first run, and you have not wiped or reinstalled your system in the mean time, repeat step 5 with the *_-fu_* and *_-nc_* options at the end. _Be aware that this will delete any data you have put on the EXT2 partition_. You may do this as many times as you like.<br>
+
+/data/sdsplit -nd -fs size *-fu -nc*<br>
+
+i.e. <br><br>
+<font color="#FF0000">$ su</font><br> 
+<font color="#FF0000"># /data/sdsplit -nd -fs 7000M *-fu -nc*</font><br>
+<font color="#FF0000"># exit</font><br> 
+
+<hr>
+*Problem Report:*
+
 If your run into any serious problems, there is a log file located at: _/data/sdsplit.log_ if you can get it off your phone.
 
 *To Continue on please go to <a href="http://code.google.com/p/android-roms/wiki/A2SD">Setting up your phone to work with Apps 2 SD (symlinks)</a>*
