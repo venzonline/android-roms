@@ -15,6 +15,7 @@
   * [Fat_Ext2_Partition Partition SDCard Fat32 / Ext2]
   * [A2SD Apps 2 SD]
   * [Unroot Unroot / Restore Stock]
+  * [Unbrick Recover from a Brick]
 
 * Misc Articles* *
   * [Secret_Star_Codes Secret Star Codes]
