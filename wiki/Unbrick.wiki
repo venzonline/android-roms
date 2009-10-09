@@ -1,5 +1,5 @@
 #summary How To: Recover your G1 from a bring Bricked.
-#labels Featured
+#labels Featured,CTDroidBeast
 
 *<font color="#FF0000">=================================================================================</font><br>
   <font color="#FF0000">DISCLAIMER: I AM NOT RESPONSIBLE IF YOU BRICK / RUIN YOUR PHONE IN ANY WAY.</font>    <br>
@@ -95,7 +95,7 @@ If your still having a problem contact me at CTDroidBeast@gmail.com
 <br>
 <br>
 <br>
-[[Image:www.website-hit-counters.com/cgi-bin/image.pl?URL=1781-955]]
+[[Image:http://www.website-hit-counters.com/cgi-bin/image.pl?URL=1781-955]]
 <br>
 <img src="http://www.website-hit-counters.com/cgi-bin/image.pl?URL=1781-955">
 <br>
