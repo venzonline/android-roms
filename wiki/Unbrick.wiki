@@ -1,4 +1,5 @@
 #summary How To: Recover your G1 from a bring Bricked.
+#labels Featured
 
 *<font color="#FF0000">=================================================================================</font><br>
   <font color="#FF0000">DISCLAIMER: I AM NOT RESPONSIBLE IF YOU BRICK / RUIN YOUR PHONE IN ANY WAY.</font>    <br>
@@ -6,10 +7,95 @@
   <font color="#FF0000">IF YOU DO NOT KNOW WHAT ROOT IS ... YOU PROBABLY DON'T NEED IT</font>                 <br>
 <font color="#FF0000">=================================================================================</font>*<br>
 
+===*PROCEED WITH CAUTION*===
 
+====_*All credit for this must go to CTDRoidBeast, he is the one that put this together and passed it along to me so thanks to him!*_====
 
+= How to UnBrick Your Phone = 
+_(Method 1)_
 
-*PROCEED WITH CAUTION*
+Ok so you're trying to put this really cool new custom ROM on your phone and then suddenly, your phone won't start up…well my friends, you have got yourself a bricked phone. The thing you worry about the entire time you're rooting, and flashing your phone, has now become reality. Well, fear no more, for I, CTDroidBeast have found a way to unbrick your device! 
+<br><br>
+It's really easy. It's actually easier then rooting your phone, believe it or not. 
+<br><br>
+Ok, you will need a new SD card, because I bet if you use the one out of your device your computer will not be able to read it. But if it does then HEY, you're in luck. You don't have to spend your money on a new SD card. 
+<br><br>
+So let's get started. <br>
+
+*Step 1*: Turning Off Your Phone<br>
+
+  * Because you have a bricked phone, you can't just hold the power button. So if your phone is not already off then you're going to want to take out the battery. <br>
+
+*Step 2*: Preparing Our SD card<br>
+
+  * Take out your SD card and put it into an SD card reader or some type of other adapter so that we can view it from our computer. If you cannot view the SD card on your computer then you're going to need a new SD card.<br>
+
+  * Download *<a href="http://android-roms.googlecode.com/files/DREAIMG-RC29.zip">DREAIMG-RC29.zip</a>* and unzip the file.<br>
+
+  * *Reformat the SD card to FAT32* and copy the *DREAIMG.nbh* onto it.<br>
+
+  * Safely eject the SD card.<br>
+
+  * Put the SD card into your device. <br>
+
+*Step 3*: Wipe The Phone<br>
+
+  * Hold home and press the power button.<br>
+
+  * When you see the image of an ! mark, open your keyboard and press *Alt + L* if you cannot see any command options.<br>
+
+  * Do a factory reset by pressing *Alt + W* or just using the trackball.<br>
+
+  * When the reset is done, go ahead and *hold the camera button* and select the *reboot system now* option with your trackball. <br>
+ 
+*Step 4*: Flashing The Phone<br>
+
+  * Once the grey screen pops up (or the white screen if your phone was rooted with JesusFreke) it will ask you to hit a button to start installing the image…press that button. *DO NOT DO ANYTHING TO STOP THIS PROCCESS*. It will take about 8-12 minutes.
+
+  * When the image has completed the installation (it will say completed), go ahead and *press the green, red, and menu buttons* at the same time. The phone will reboot. <br><br>
+
+And your done! Your phone is now unbricked!. <br><br>
+
+The G1 screen will hang there for a good minute or two, but be paticiant, it will boot. Now you have a choice. Try to hack your phone again, because you're in the correct state to have another go, or, you can stick with the official Android. Now if you choose to stick with the official Android, here's what you do. <br><br>
+
+*Step 1*: Upgrading to Android 1.5 CRB43<br>
+
+  * Download the file *<a href="http://android-roms.googlecode.com/files/signed-kila-ota-148830.de6a94ca.zip">signed-kila-ota-148830.de6a94ca.zip</a>*<br>
+
+  * Rename the file to *update.zip* and copy it to your SD card<br>
+
+  * Reboot your phone into recovery mode. Power off the phone first and then *hold down the Home key* while powering it back on.<br>
+
+  * The recovery mode is finished loading when you see the ! mark inside the triangle. Press *Alt + L*  to display the list of options.<br>
+
+  * Press *Alt + S* to flash the file update.zip.<br>
+
+  * Wait for the update to apply. Your phone may reboot during this process so be patient.<br>
+
+  * Press *Home + Back* if prompted to reboot your phone. <br>
+
+*Step 2*: Upgrade to Android 1.5 CRC1<br>
+
+  * Download the file *<a href="http://android-roms.googlecode.com/files/signed-kila-CRC1-from-CRB43-FIX.7ca4a1d7.zip">signed-kila-CRC1-from-CRB43-FIX.7ca4a1d7.zip</a>*<br>
+
+  * Repeat the steps from above to flash the update file. <br>
+
+*Step 3*: Upgrade to Android 1.6 DRC83<br>
+
+  * Download the file *<a href="http://android-roms.googlecode.com/files/signed-kila-DRC83-from-CRC1.c41b93c1.zip">signed-kila-DRC83-from-CRC1.c41b93c1.zip</a>*<br>
+
+  * Repeat the steps from above to flash the update file. <br><br>
+ 
+ 
+ 
+If your still having a problem contact me at CTDRoidBeast@gmail.com
+<br>
+<br>
+<hr>
+<br>
+<br>
 <br>
 
-= Coming Soon =
+<br>
+<img src="http://www.website-hit-counters.com/cgi-bin/image.pl?URL=1781-955" alt="Total Unique Visitors" border="0" >
+<br>
