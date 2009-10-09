@@ -11,7 +11,7 @@
 
 ====_*All credit for this must go to CTDRoidBeast, he is the one that put this together and passed it along to me so thanks to him!*_====
 
-= How to UnBrick Your Phone = 
+= How to `UnBrick` Your Phone = 
 _(Method 1)_
 
 Ok so you're trying to put this really cool new custom ROM on your phone and then suddenly, your phone won't start up…well my friends, you have got yourself a bricked phone. The thing you worry about the entire time you're rooting, and flashing your phone, has now become reality. Well, fear no more, for I, CTDroidBeast have found a way to unbrick your device! 
