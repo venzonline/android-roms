@@ -1,0 +1,30 @@
+#summary DIY: Upgrade to Donut (Firmware 1.6).
+#labels Featured,CTDroidBeast,Donut,OTA_ROM
+
+*<font color="#FF0000">=================================================================================</font><br>
+  <font color="#FF0000">DISCLAIMER: I AM NOT RESPONSIBLE IF YOU BRICK / RUIN YOUR PHONE IN ANY WAY.</font>    <br>
+  <font color="#FF0000">BASIC COMPUTER SKILLS REQUIRED</font>                                                 <br>
+  <font color="#FF0000">IF YOU DO NOT KNOW WHAT ROOT IS ... YOU PROBABLY DON'T NEED IT</font>                 <br>
+<font color="#FF0000">=================================================================================</font>*<br>
+
+===*PROCEED WITH CAUTION*===
+
+= How To Apply The Official T-Mobile 1.6 (Donut) Upgrade =
+
+*Upgrading to Android 1.6 DRC83*
+<br>
+  * Download the file *<a href="http://android-roms.googlecode.com/files/signed-kila-DRC83-from-CRC1.c41b93c1.zip">signed-kila-ota-148830.de6a94ca.zip</a>* 
+
+  * Rename the file to *update.zip* and copy it to your SD card
+
+  * Reboot your phone into recovery mode. Power off the phone first and then *hold down the Home key* while powering it back on.
+
+  * The recovery mode is finished loading when you see the ! mark inside the triangle. Press *Alt + L*  to display the list of options.
+
+  * Press *Alt + S* to flash the file update.zip.
+
+  * Wait for the update to apply. Your phone may reboot during this process so be patient.
+
+  * Press *Home + Back* if prompted to reboot your phone. 
+<br>
+If your still having a problem contact me at CTDroidBeast@gmail.com 
