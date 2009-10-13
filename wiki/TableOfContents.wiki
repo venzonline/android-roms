@@ -16,6 +16,7 @@
   * [A2SD Apps 2 SD]
   * [Unroot Unroot / Restore Stock]
   * [Unbrick Recover from a Brick]
+  * [Donut Upgrade to Donut (Firmware 1.6)]
 
 * Misc Articles* *
   * [Secret_Star_Codes Secret Star Codes]
