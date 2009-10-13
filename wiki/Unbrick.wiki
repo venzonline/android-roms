@@ -58,9 +58,9 @@ And your done! Your phone is now unbricked!. <br><br>
 
 The G1 screen will hang there for a good minute or two, but be paticiant, it will boot. Now you have a choice. Try to hack your phone again, because you're in the correct state to have another go, or, you can stick with the official Android. Now if you choose to stick with the official Android, here's what you do. <br><br>
 
-*Step 1*: Upgrading to Android 1.5 CRB43<br>
+*Step 1*: Upgrading to Android 1.0 RC33<br>
 
-  * Download the file *<a href="http://android-roms.googlecode.com/files/signed-kila-ota-148830.de6a94ca.zip">signed-kila-ota-148830.de6a94ca.zip</a>*<br>
+  * Download the file *<a href="http://android-roms.googlecode.com/files/signed-PLAT-RC33-from-RC30.zip">signed-PLAT-RC33-from-RC30.zip</a>*<br>
 
   * Rename the file to *update.zip* and copy it to your SD card<br>
 
@@ -74,13 +74,19 @@ The G1 screen will hang there for a good minute or two, but be paticiant, it wil
 
   * Press *Home + Back* if prompted to reboot your phone. <br>
 
-*Step 2*: Upgrade to Android 1.5 CRC1<br>
+*Step 2*: Upgrading to Android 1.5 CRB43<br>
+
+  * Download the file *<a href="http://android-roms.googlecode.com/files/signed-kila-ota-148830.de6a94ca.zip">signed-kila-ota-148830.de6a94ca.zip</a>*<br>
+
+  * Repeat the steps from above to flash the update file. <br>
+
+*Step 3*: Upgrade to Android 1.5 CRC1<br>
 
   * Download the file *<a href="http://android-roms.googlecode.com/files/signed-kila-CRC1-from-CRB43-FIX.7ca4a1d7.zip">signed-kila-CRC1-from-CRB43-FIX.7ca4a1d7.zip</a>*<br>
 
   * Repeat the steps from above to flash the update file. <br>
 
-*Step 3*: Upgrade to Android 1.6 DRC83<br>
+*Step 4*: Upgrade to Android 1.6 DRC83<br>
 
   * Download the file *<a href="http://android-roms.googlecode.com/files/signed-kila-DRC83-from-CRC1.c41b93c1.zip">signed-kila-DRC83-from-CRC1.c41b93c1.zip</a>*<br>
 
