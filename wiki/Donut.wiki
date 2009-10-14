@@ -13,7 +13,7 @@
 
 *Upgrading to Android 1.6 DRC83*
 <br>
-  * Download the file *<a href="http://android-roms.googlecode.com/files/signed-kila-DRC83-from-CRC1.c41b93c1.zip">signed-kila-ota-148830.de6a94ca.zip</a>* 
+  * Download the file *<a href="http://android-roms.googlecode.com/files/signed-kila-DRC83-from-CRC1.c41b93c1.zip">signed-kila-DRC83-from-CRC1.c41b93c1.zip</a>* 
 
   * Rename the file to *update.zip* and copy it to your SD card
 
