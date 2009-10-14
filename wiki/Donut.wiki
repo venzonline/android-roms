@@ -9,7 +9,7 @@
 
 ===*PROCEED WITH CAUTION*===
 
-= How To Apply The Official T-Mobile 1.6 (Donut) Upgrade =
+= How To Manually Apply The Official T-Mobile 1.6 (Donut) Upgrade =
 
 *Upgrading to Android 1.6 DRC83*
 <br>
